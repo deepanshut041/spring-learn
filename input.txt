@@ -1,0 +1,2595 @@
+Introduction
+by Udacity
+1 35
+   
+Advice from Sergey Brin - Intro to Computer Science
+by Udacity
+0 30
+   
+Overview of the Unit - Intro to Computer Science
+by Udacity
+1 05
+   
+First Quiz - Intro to Computer Science
+by Udacity
+1 15
+   
+First Quiz Solution - Intro to Computer Science
+by Udacity
+0 34
+   
+What is Programming 
+by Udacity
+2 41
+   
+What Is a Program 
+by Udacity
+0 26
+   
+What Is a Program - Intro to Computer Science
+by Udacity
+0 20
+   
+Getting Started with Python - Intro to Computer Science
+by Udacity
+1 00
+   
+First Programming Quiz - Intro to Computer Science
+by Udacity
+3 12
+   
+First Programming Quiz Solution - Intro to Computer Science
+by Udacity
+0 47
+   
+Congratulations - Intro to Computer Science
+by Udacity
+0 15
+   
+Language Ambiguity
+by Udacity
+1 14
+   
+Biweekly Solution - Intro to Computer Science
+by Udacity
+2 29
+   
+Grammar - Intro to Computer Science
+by Udacity
+3 10
+   
+Backus Naur Form - Intro to Computer Science
+by Udacity
+3 13
+   
+Eat Quiz - Intro to Computer Science
+by Udacity
+0 27
+   
+Eat Quiz Solution - Intro to Computer Science
+by Udacity
+1 28
+   
+Python Expressions - Intro to Computer Science
+by Udacity
+5 28
+   
+Python Expressions Solution - Intro to Computer Science
+by Udacity
+4 04
+   
+Speed of Light - Intro to Computer Science
+by Udacity
+0 58
+   
+Speed of Light Solution - Intro to Computer Science
+by Udacity
+1 04
+   
+Processors
+by Udacity
+1 36
+   
+Grace Hopper
+by Udacity
+1 06
+   
+Variables - Intro to Computer Science
+by Udacity
+2 49
+   
+Variables Quiz - Intro to Computer Science
+by Udacity
+1 43
+   
+Variables Quiz Solution - Intro to Computer Science
+by Udacity
+0 52
+   
+Variables Can Vary - Intro to Computer Science
+by Udacity
+3 56
+   
+Varying Variables 1
+by Udacity
+0 57
+   
+Varying Variables Quiz 1 Solution - Intro to Computer Science
+by Udacity
+0 58
+   
+Varying Variables Quiz 2 - Intro to Computer Science
+by Udacity
+0 35
+   
+Varying Variables Quiz 2 Solution - Intro to Computer Science
+by Udacity
+1 05
+   
+Spirit Age - Intro to Computer Science
+by Udacity
+0 37
+   
+Spirit Age Solution - Intro to Computer Science
+by Udacity
+1 32
+   
+Strings - Intro to Computer Science
+by Udacity
+3 40
+   
+Valid Strings - Intro to Computer Science
+by Udacity
+0 12
+   
+Valid Strings Solution - Intro to Computer Science
+by Udacity
+0 55
+   
+Ada - Intro to Computer Science
+by Udacity
+1 09
+   
+Hello!!! - Intro to Computer Science
+by Udacity
+0 11
+   
+Hello!!! Solution - Intro to Computer Science
+by Udacity
+1 51
+   
+Strings And Numbers - Intro to Computer Science
+by Udacity
+1 12
+   
+Indexing Strings - Intro to Computer Science
+by Udacity
+2 20
+   
+Same Value - Intro to Computer Science
+by Udacity
+1 28
+   
+Same Value Solution - Intro to Computer Science
+by Udacity
+2 00
+   
+Selecting Sub Sequences - Intro to Computer Science
+by Udacity
+3 39
+   
+Capital Udacity - Intro to Computer Science
+by Udacity
+0 37
+   
+Capital Udacity Solution - Intro to Computer Science
+by Udacity
+1 00
+   
+Understanding Selection - Intro to Computer Science
+by Udacity
+1 17
+   
+Understanding Selection Solution - Intro to Computer Science
+by Udacity
+3 26
+   
+Finding Strings in Strings - Intro to Computer Science
+by Udacity
+3 11
+   
+Testing - Intro to Computer Science
+by Udacity
+0 30
+   
+Testing Solution - Intro to Computer Science
+by Udacity
+1 03
+   
+Testing2 - Intro to Computer Science
+by Udacity
+1 25
+   
+Testing2 Solution - Intro to Computer Science
+by Udacity
+2 05
+   
+Finding with Numbers - Intro to Computer Science
+by Udacity
+3 48
+   
+Finding with Numbers Quiz - Intro to Computer Science
+by Udacity
+1 10
+   
+Finding with Numbers Quiz Solution - Intro to Computer Science
+by Udacity
+3 17
+   
+String Theory - Intro to Computer Science
+by Udacity
+0 30
+   
+Extracting Links - Intro to Computer Science
+by Udacity
+6 36
+   
+Extracting Links Solution - Intro to Computer Science
+by Udacity
+0 39
+   
+Final Quiz - Intro to Computer Science
+by Udacity
+2 10
+   
+Final Quiz Solution - Intro to Computer Science
+by Udacity
+2 27
+   
+Great Job! - Intro to Computer Science
+by Udacity
+0 27
+   
+Search Engines And The Web - Intro to Computer Science
+by Udacity
+0 38
+   
+Search Engines And The Web Solution - Intro to Computer Science
+by Udacity
+1 18
+   
+Python Programming 1 - Intro to Computer Science
+by Udacity
+0 14
+   
+Python Programming 1 Solution - Intro to Computer Science
+by Udacity
+0 40
+   
+Python Programming 2 - Intro to Computer Science
+by Udacity
+0 43
+   
+Python Programming 2 Solution - Intro to Computer Science
+by Udacity
+2 57
+   
+Speed of Light - Intro to Computer Science
+by Udacity
+1 03
+   
+Speed of Light Solution - Intro to Computer Science
+by Udacity
+0 30
+   
+Strings - Intro to Computer Science
+by Udacity
+0 35
+   
+Strings Solution - Intro to Computer Science
+by Udacity
+1 23
+   
+Bodacious Udacity - Intro to Computer Science
+by Udacity
+0 25
+   
+Bodacious Udacity Solution - Intro to Computer Science
+by Udacity
+2 00
+   
+Find 1 - Intro to Computer Science
+by Udacity
+0 24
+   
+Find 1 Solution - Intro to Computer Science
+by Udacity
+0 28
+   
+Find 2 - Intro to Computer Science
+by Udacity
+0 49
+   
+Find 2 Solution - Intro to Computer Science
+by Udacity
+0 47
+   
+Rounding Numbers - Intro to Computer Science
+by Udacity
+1 43
+   
+Rounding Numbers Solution - Intro to Computer Science
+by Udacity
+2 31
+   
+Why Python - Intro to Computer Science
+by Udacity
+0 37
+   
+Indentation in Python - Intro to Computer Science
+by Udacity
+1 59
+   
+BNF in Real Life - Intro to Computer Science
+by Udacity
+2 30
+   
+Work Ethics in Programming - Intro to Computer Science
+by Udacity
+1 25
+   
+Seed Pages in Real World - Intro to Computer Science
+by Udacity
+0 44
+   
+Helping Udacity - Intro to Computer Science
+by Udacity
+0 54
+   
+Introduction - Intro to Computer Science
+by Udacity
+4 25
+   
+Motivating Procedures - Intro to Computer Science
+by Udacity
+1 30
+   
+Introducing Procedures - Intro to Computer Science
+by Udacity
+3 28
+   
+Procedure Code - Intro to Computer Science
+by Udacity
+2 24
+   
+Procedure Code Solution - Intro to Computer Science
+by Udacity
+0 45
+   
+Output - Intro to Computer Science
+by Udacity
+1 16
+   
+Output Solution - Intro to Computer Science
+by Udacity
+1 44
+   
+Return Statement - Intro to Computer Science
+by Udacity
+3 17
+   
+Return Statement Solution - Intro to Computer Science
+by Udacity
+1 12
+   
+ Dave
+by Udacity
+1 32
+   
+Using Procedures - Intro to Computer Science
+by Udacity
+4 44
+   
+Inc Procedure - Intro to Computer Science
+by Udacity
+0 44
+   
+Inc Procedure Solution - Intro to Computer Science
+by Udacity
+0 23
+   
+Sum Procedure - Intro to Computer Science
+by Udacity
+0 47
+   
+Sum Procedure Solution - Intro to Computer Science
+by Udacity
+5 20
+   
+Sum Procedure with a Return Statement - Intro to Computer Science
+by Udacity
+0 27
+   
+Sum Procedure with a Return Statement - Intro to Computer Science
+by Udacity
+0 58
+   
+Square - Intro to Computer Science
+by Udacity
+0 34
+   
+Square Solution - Intro to Computer Science
+by Udacity
+2 09
+   
+Sum of Three - Intro to Computer Science
+by Udacity
+0 43
+   
+Sum of Three Solution - Intro to Computer Science
+by Udacity
+0 48
+   
+Abbaize - Intro to Computer Science
+by Udacity
+0 49
+   
+Abbaize Solution - Intro to Computer Science
+by Udacity
+0 33
+   
+Find Second - Intro to Computer Science
+by Udacity
+1 31
+   
+Find Second Solution - Intro to Computer Science
+by Udacity
+1 44
+   
+Equality Comparisons - Intro to Computer Science
+by Udacity
+2 50
+   
+Equality Comparisons Solution - Intro to Computer Science
+by Udacity
+0 33
+   
+If Statements - Intro to Computer Science
+by Udacity
+2 28
+   
+If Statements Solution - Intro to Computer Science
+by Udacity
+3 01
+   
+Is Friend - Intro to Computer Science
+by Udacity
+0 39
+   
+Is Friend Solution - Intro to Computer Science
+by Udacity
+1 26
+   
+More Friends - Intro to Computer Science
+by Udacity
+0 43
+   
+More Friends Solution - Intro to Computer Science
+by Udacity
+1 09
+   
+Or
+by Udacity
+2 27
+   
+Biggest - Intro to Computer Science
+by Udacity
+0 49
+   
+Biggest Solution
+by Udacity
+8 36
+   
+While Loops - Intro to Computer Science
+by Udacity
+6 20
+   
+While Loops Solution - Intro to Computer Science
+by Udacity
+1 34
+   
+While Loops 2 - Intro to Computer Science
+by Udacity
+0 49
+   
+While Loops 2 Solution - Intro to Computer Science
+by Udacity
+2 44
+   
+Print Numbers - Intro to Computer Science
+by Udacity
+0 43
+   
+Print Numbers Solution - Intro to Computer Science
+by Udacity
+2 01
+   
+Factorial - Intro to Computer Science
+by Udacity
+4 30
+   
+Factorial Solution - Intro to Computer Science
+by Udacity
+2 07
+   
+Break - Intro to Computer Science
+by Udacity
+3 50
+   
+Break Solution - Intro to Computer Science
+by Udacity
+2 28
+   
+Multiple Assignment - Intro to Computer Science
+by Udacity
+4 34
+   
+Multiple Assignment - Intro to Computer Science
+by Udacity
+0 52
+   
+Multiple Assignment Solution - Intro to Computer Science
+by Udacity
+1 14
+   
+No Links - Intro to Computer Science
+by Udacity
+3 37
+   
+No Links Solution - Intro to Computer Science
+by Udacity
+1 32
+   
+Print All Links - Intro to Computer Science
+by Udacity
+3 00
+   
+Print All Links Solution - Intro to Computer Science
+by Udacity
+3 39
+   
+Udacify - Intro to Computer Science
+by Udacity
+0 28
+   
+Udacify Solution - Intro to Computer Science
+by Udacity
+0 37
+   
+Proc - Intro to Computer Science
+by Udacity
+0 53
+   
+Proc Solution - Intro to Computer Science
+by Udacity
+2 30
+   
+Median - Intro to Computer Science
+by Udacity
+0 38
+   
+Median Solution - Intro to Computer Science
+by Udacity
+1 51
+   
+Blastoff - Intro to Computer Science
+by Udacity
+0 25
+   
+Blastoff Solution - Intro to Computer Science
+by Udacity
+0 54
+   
+Finish - Intro to Computer Science
+by Udacity
+0 49
+   
+Finish Solution - Intro to Computer Science
+by Udacity
+2 30
+   
+Find Last - Intro to Computer Science
+by Udacity
+0 20
+   
+Find Last Solution - Intro to Computer Science
+by Udacity
+1 28
+   
+Multiplication Table - Intro to Computer Science
+by Udacity
+1 16
+   
+Multiplication Table Solution - Intro to Computer Science
+by Udacity
+1 08
+   
+Quizzes Are There To Help You - Intro to Computer Science
+by Udacity
+1 16
+   
+Good Programming Practices - Intro to Computer Science
+by Udacity
+1 26
+   
+Additional Libraries - Intro to Computer Science
+by Udacity
+1 42
+   
+Why Another Search Engine  - Intro to Computer Science
+by Udacity
+0 56
+   
+怎样解决问题
+by Udacity
+0 47
+   
+Days Between Dates - Intro to Computer Science
+by Udacity
+1 21
+   
+First Step - Intro to Computer Science
+by Udacity
+0 19
+   
+First Step - Intro to Computer Science
+by Udacity
+1 10
+   
+Understanding a Problem - Intro to Computer Science
+by Udacity
+0 46
+   
+The First Rule - Intro to Computer Science
+by Udacity
+0 23
+   
+What Are the Inputs - Intro to Computer Science
+by Udacity
+1 54
+   
+How Are Inputs Represented - Intro to Computer Science
+by Udacity
+0 49
+   
+What Are the Outputs
+by Udacity
+0 36
+   
+What Are the Outputs - Intro to Computer Science
+by Udacity
+0 44
+   
+Obey the Rules - Intro to Computer Science
+by Udacity
+0 27
+   
+Next Step
+by Udacity
+0 14
+   
+Next Step - Intro to Computer Science
+by Udacity
+0 19
+   
+The Expected Output - Intro to Computer Science
+by Udacity
+0 35
+   
+The Expected Output - Intro to Computer Science
+by Udacity
+1 17
+   
+Take the Next Step - Intro to Computer Science
+by Udacity
+0 41
+   
+Try an Example - Intro to Computer Science
+by Udacity
+1 08
+   
+Harder Example - Intro to Computer Science
+by Udacity
+0 28
+   
+Algorithm Pseudocode - Intro to Computer Science
+by Udacity
+1 54
+   
+Should We Implement It - Intro to Computer Science
+by Udacity
+0 37
+   
+Should We Implement It - Intro to Computer Science
+by Udacity
+1 48
+   
+Different Approach - Intro to Computer Science
+by Udacity
+0 38
+   
+Simple Mechanical Algorithm - Intro to Computer Science
+by Udacity
+0 38
+   
+Simple Mechanical Algorithm - Intro to Computer Science
+by Udacity
+1 09
+   
+Don t Optimize Prematurely - Intro to Computer Science
+by Udacity
+0 59
+   
+What Should We Write First - Intro to Computer Science
+by Udacity
+0 43
+   
+What Should We Write First - Intro to Computer Science
+by Udacity
+1 25
+   
+Define nextDay - Intro to Computer Science
+by Udacity
+0 24
+   
+Define nextDay - Intro to Computer Science
+by Udacity
+1 26
+   
+Making Progress Is Good - Intro to Computer Science
+by Udacity
+0 29
+   
+What Should We Do Next - Intro to Computer Science
+by Udacity
+0 19
+   
+What Should We Do Next - Intro to Computer Science
+by Udacity
+0 40
+   
+Define daysBetweenDates - Intro to Computer Science
+by Udacity
+0 37
+   
+Step One Pseudocode - Intro to Computer Science
+by Udacity
+1 18
+   
+Step Two Helper Function - Intro to Computer Science
+by Udacity
+0 38
+   
+Step Three daysBetweenDates - Intro to Computer Science
+by Udacity
+1 45
+   
+Test for Valid Inputs - Intro to Computer Science
+by Udacity
+0 17
+   
+Test for Valid Inputs - Intro to Computer Science
+by Udacity
+0 37
+   
+Real World Problem - Intro to Computer Science
+by Udacity
+0 41
+   
+Best Strategy - Intro to Computer Science
+by Udacity
+0 45
+   
+Best Strategy - Intro to Computer Science
+by Udacity
+3 02
+   
+Finish daysBetweenDates - Intro to Computer Science
+by Udacity
+0 27
+   
+Solution Step I - Intro to Computer Science
+by Udacity
+2 01
+   
+Solution Step II - Intro to Computer Science
+by Udacity
+1 40
+   
+Solution Step III - Intro to Computer Science
+by Udacity
+2 52
+   
+Solution Step IV - Intro to Computer Science
+by Udacity
+0 54
+   
+Conclusion - Intro to Computer Science
+by Udacity
+0 37
+   
+Structured Data
+by Udacity
+3 06
+   
+Stooges - Intro to Computer Science
+by Udacity
+0 31
+   
+Stooges Solution - Intro to Computer Science
+by Udacity
+0 43
+   
+Days in a Month - Intro to Computer Science
+by Udacity
+1 00
+   
+Days in a Month Solution - Intro to Computer Science
+by Udacity
+1 22
+   
+嵌套列表
+by Udacity
+2 44
+   
+Countries - Intro to Computer Science
+by Udacity
+0 53
+   
+Countries Solution - Intro to Computer Science
+by Udacity
+1 05
+   
+Relative Size - Intro to Computer Science
+by Udacity
+0 18
+   
+Relative Size Solution - Intro to Computer Science
+by Udacity
+1 16
+   
+突变
+by Udacity
+2 17
+   
+一个字符串列表
+by Udacity
+2 26
+   
+Different Stooges - Intro to Computer Science
+by Udacity
+0 29
+   
+Different Stooges Solution - Intro to Computer Science
+by Udacity
+0 10
+   
+Yello 突变
+by Udacity
+2 52
+   
+别名
+by Udacity
+1 46
+   
+Secret Agent Man - Intro to Computer Science
+by Udacity
+0 40
+   
+Secret Agent Man Solution - Intro to Computer Science
+by Udacity
+1 05
+   
+Replace Spy - Intro to Computer Science
+by Udacity
+1 08
+   
+Replace Spy Solution - Intro to Computer Science
+by Udacity
+3 12
+   
+列表操作
+by Udacity
+2 06
+   
+列表的追加和长度
+by Udacity
+2 14
+   
+Len Quiz - Intro to Computer Science
+by Udacity
+0 44
+   
+Len Quiz Solution - Intro to Computer Science
+by Udacity
+1 07
+   
+Append Quiz - Intro to Computer Science
+by Udacity
+0 20
+   
+Append Quiz Solution - Intro to Computer Science
+by Udacity
+1 35
+   
+How Computers Store Data - Intro to Computer Science
+by Udacity
+3 19
+   
+DRAM - Intro to Computer Science
+by Udacity
+2 53
+   
+Memory Hierarchy - Intro to Computer Science
+by Udacity
+3 46
+   
+Memory Hierarchy Solution - Intro to Computer Science
+by Udacity
+0 38
+   
+Hard Drives - Intro to Computer Science
+by Udacity
+2 38
+   
+Hard Drives Solution - Intro to Computer Science
+by Udacity
+1 08
+   
+Loops on Lists
+by Udacity
+1 33
+   
+Loops on Lists Solution - Intro to Computer Science
+by Udacity
+1 25
+   
+for 循环
+by Udacity
+2 28
+   
+Sum List - Intro to Computer Science
+by Udacity
+0 30
+   
+Sum List Solution - Intro to Computer Science
+by Udacity
+1 46
+   
+Measure Udacity - Intro to Computer Science
+by Udacity
+1 03
+   
+Measure Udacity Solution - Intro to Computer Science
+by Udacity
+1 45
+   
+Find Element - Intro to Computer Science
+by Udacity
+1 44
+   
+Find Element Solution - Intro to Computer Science
+by Udacity
+3 28
+   
+Index - Intro to Computer Science
+by Udacity
+3 45
+   
+Index Solution - Intro to Computer Science
+by Udacity
+1 07
+   
+Guest Speaker  Sergey Brin
+by Udacity
+0 36
+   
+Union - Intro to Computer Science
+by Udacity
+1 17
+   
+Union Solution - Intro to Computer Science
+by Udacity
+1 02
+   
+Pop - Intro to Computer Science
+by Udacity
+1 24
+   
+Pop Quiz - Intro to Computer Science
+by Udacity
+0 38
+   
+Pop Quiz Solution - Intro to Computer Science
+by Udacity
+3 14
+   
+Collecting Links - Intro to Computer Science
+by Udacity
+0 49
+   
+Get All Links - Intro to Computer Science
+by Udacity
+1 57
+   
+Links - Intro to Computer Science
+by Udacity
+1 22
+   
+Starting Get All Links - Intro to Computer Science
+by Udacity
+0 47
+   
+Starting Get All Links Solution - Intro to Computer Science
+by Udacity
+0 09
+   
+Updating Links - Intro to Computer Science
+by Udacity
+0 21
+   
+Updating Links Solution - Intro to Computer Science
+by Udacity
+0 21
+   
+Finishing Get All Links - Intro to Computer Science
+by Udacity
+0 09
+   
+Finishing Get All Links Solution - Intro to Computer Science
+by Udacity
+0 14
+   
+Finishing the Web Crawler - Intro to Computer Science
+by Udacity
+4 16
+   
+Crawling Process - Intro to Computer Science
+by Udacity
+1 19
+   
+Crawling Process Solution - Intro to Computer Science
+by Udacity
+1 19
+   
+Crawl Web - Intro to Computer Science
+by Udacity
+1 05
+   
+Crawl Web Solution - Intro to Computer Science
+by Udacity
+0 11
+   
+Crawl Web Loop - Intro to Computer Science
+by Udacity
+0 59
+   
+Crawl Web Loop Solution - Intro to Computer Science
+by Udacity
+1 37
+   
+Crawl If - Intro to Computer Science
+by Udacity
+0 36
+   
+Crawl If Solution - Intro to Computer Science
+by Udacity
+0 34
+   
+Finishing Crawl Web - Intro to Computer Science
+by Udacity
+0 51
+   
+Finishing Crawl Web Solution - Intro to Computer Science
+by Udacity
+1 03
+   
+Conclusion - Intro to Computer Science
+by Udacity
+3 49
+   
+Lists Solution - Intro to Computer Science
+by Udacity
+2 02
+   
+Mutating Lists Solution - Intro to Computer Science
+by Udacity
+2 21
+   
+Product List Solution - Intro to Computer Science
+by Udacity
+0 30
+   
+Greatest Solution - Intro to Computer Science
+by Udacity
+0 51
+   
+Lists of Lists Solution - Intro to Computer Science
+by Udacity
+1 54
+   
+Max Pages Solution - Intro to Computer Science
+by Udacity
+1 53
+   
+Max Depth Solution - Intro to Computer Science
+by Udacity
+6 45
+   
+Sudoku Solution - Intro to Computer Science
+by Udacity
+2 28
+   
+Introduction - Intro to Computer Science
+by Udacity
+1 42
+   
+Data Structures - Intro to Computer Science
+by Udacity
+1 28
+   
+Data Structures Solution - Intro to Computer Science
+by Udacity
+6 20
+   
+Add to Index - Intro to Computer Science
+by Udacity
+4 08
+   
+Add to Index Solution - Intro to Computer Science
+by Udacity
+3 35
+   
+Lookup - Intro to Computer Science
+by Udacity
+1 05
+   
+Lookup Solution - Intro to Computer Science
+by Udacity
+1 18
+   
+Building the Web Index - Intro to Computer Science
+by Udacity
+2 39
+   
+Add Page to Index - Intro to Computer Science
+by Udacity
+2 35
+   
+Add Page to Index Solution - Intro to Computer Science
+by Udacity
+4 32
+   
+Finishing the Web Crawler - Intro to Computer Science
+by Udacity
+2 06
+   
+Finishing the Web Crawler Solution - Intro to Computer Science
+by Udacity
+0 40
+   
+Startup - Intro to Computer Science
+by Udacity
+1 01
+   
+The Internet - Intro to Computer Science
+by Udacity
+2 01
+   
+Networks - Intro to Computer Science
+by Udacity
+2 33
+   
+Networks Solution - Intro to Computer Science
+by Udacity
+1 17
+   
+Smoke Signals - Intro to Computer Science
+by Udacity
+3 52
+   
+Latency - Intro to Computer Science
+by Udacity
+2 10
+   
+Latency Solution - Intro to Computer Science
+by Udacity
+1 39
+   
+Bandwidth - Intro to Computer Science
+by Udacity
+0 52
+   
+Bits - Intro to Computer Science
+by Udacity
+2 54
+   
+Bits Solution - Intro to Computer Science
+by Udacity
+2 27
+   
+Buckets of Bits - Intro to Computer Science
+by Udacity
+1 29
+   
+What Is Your Bandwidth  - Intro to Computer Science
+by Udacity
+1 31
+   
+What Is Your Bandwidth  - Intro to Computer Science
+by Udacity
+0 34
+   
+Traceroute - Intro to Computer Science
+by Udacity
+4 03
+   
+Traveling Data - Intro to Computer Science
+by Udacity
+0 30
+   
+Traveling Data - Intro to Computer Science
+by Udacity
+2 09
+   
+Making a Network - Intro to Computer Science
+by Udacity
+2 13
+   
+Protocols - Intro to Computer Science
+by Udacity
+2 21
+   
+Conclusion - Intro to Computer Science
+by Udacity
+1 16
+   
+Data Structures Solution - Intro to Computer Science
+by Udacity
+2 18
+   
+Ben Bitdiddle Solution - Intro to Computer Science
+by Udacity
+1 49
+   
+Networking Solution - Intro to Computer Science
+by Udacity
+1 35
+   
+Better Splitting Solution - Intro to Computer Science
+by Udacity
+1 36
+   
+Improving the Index Solution - Intro to Computer Science
+by Udacity
+0 55
+   
+Counting Clicks Solution - Intro to Computer Science
+by Udacity
+2 39
+   
+Time Spent at Routers - Intro to Computer Science
+by Udacity
+2 41
+   
+Time Spent at Routers - Intro to Computer Science
+by Udacity
+4 05
+   
+简介
+by Udacity
+0 41
+   
+使事物更快
+by Udacity
+5 25
+   
+Measuring Speed - Intro to Computer Science
+by Udacity
+0 49
+   
+Measuring Speed Solution - Intro to Computer Science
+by Udacity
+1 48
+   
+秒表
+by Udacity
+4 14
+   
+自旋循环
+by Udacity
+1 32
+   
+Predicting Run Time - Intro to Computer Science
+by Udacity
+1 59
+   
+Predicting Run Time Solution - Intro to Computer Science
+by Udacity
+2 10
+   
+制作大索引
+by Udacity
+5 45
+   
+Index Size Vs. Time - Intro to Computer Science
+by Udacity
+0 35
+   
+Index Size Vs. Time Solution - Intro to Computer Science
+by Udacity
+1 08
+   
+Lookup Time - Intro to Computer Science
+by Udacity
+0 33
+   
+Lookup Time Solution - Intro to Computer Science
+by Udacity
+0 49
+   
+Worst Case - Intro to Computer Science
+by Udacity
+2 35
+   
+Worst Case Solution - Intro to Computer Science
+by Udacity
+1 44
+   
+Fast Enough - Intro to Computer Science
+by Udacity
+0 30
+   
+Fast Enough Solution - Intro to Computer Science
+by Udacity
+1 21
+   
+使查找更快
+by Udacity
+4 59
+   
+Hash Table - Intro to Computer Science
+by Udacity
+1 18
+   
+Hash Table Solution - Intro to Computer Science
+by Udacity
+1 39
+   
+哈希函数
+by Udacity
+3 14
+   
+模数运算符
+by Udacity
+1 08
+   
+Modulus Quiz - Intro to Computer Science
+by Udacity
+0 33
+   
+Modulus Quiz Solution - Intro to Computer Science
+by Udacity
+2 04
+   
+Equivalent Expressions - Intro to Computer Science
+by Udacity
+0 20
+   
+Equivalent Expressions Solution - Intro to Computer Science
+by Udacity
+1 48
+   
+Bad Hash - Intro to Computer Science
+by Udacity
+1 45
+   
+Bad Hash Solution - Intro to Computer Science
+by Udacity
+4 52
+   
+Better Hash Functions - Intro to Computer Science
+by Udacity
+6 34
+   
+Better Hash Functions Solution - Intro to Computer Science
+by Udacity
+3 07
+   
+测试哈希函数
+by Udacity
+2 50
+   
+Keywords and Buckets - Intro to Computer Science
+by Udacity
+0 45
+   
+Keywords and Buckets Solution - Intro to Computer Science
+by Udacity
+2 26
+   
+Implementing Hash Tables - Intro to Computer Science
+by Udacity
+2 27
+   
+Implementing Hash Table Solution - Intro to Computer Science
+by Udacity
+1 02
+   
+Empty Hash Table - Intro to Computer Science
+by Udacity
+1 28
+   
+Empty Hash Table Solution - Intro to Computer Science
+by Udacity
+5 22
+   
+The Hard Way - Intro to Computer Science
+by Udacity
+0 20
+   
+The Hard Way Solution - Intro to Computer Science
+by Udacity
+1 22
+   
+Finding Buckets - Intro to Computer Science
+by Udacity
+2 35
+   
+Finding Buckets Solution - Intro to Computer Science
+by Udacity
+1 16
+   
+Adding Keywords - Intro to Computer Science
+by Udacity
+0 39
+   
+Adding Keywords Solution - Intro to Computer Science
+by Udacity
+3 09
+   
+Lookup - Intro to Computer Science
+by Udacity
+1 19
+   
+Lookup Solution - Intro to Computer Science
+by Udacity
+3 03
+   
+Update - Intro to Computer Science
+by Udacity
+0 44
+   
+Update Solution - Intro to Computer Science
+by Udacity
+3 05
+   
+字典
+by Udacity
+3 20
+   
+Using Dictionaries - Intro to Computer Science
+by Udacity
+3 05
+   
+Population - Intro to Computer Science
+by Udacity
+0 51
+   
+Population Solution - Intro to Computer Science
+by Udacity
+1 04
+   
+惰性气体
+by Udacity
+2 05
+   
+Modifying the Search Engine - Intro to Computer Science
+by Udacity
+1 31
+   
+Modifying the Search Engine Solution - Intro to Computer Science
+by Udacity
+3 49
+   
+Changing Lookup - Intro to Computer Science
+by Udacity
+0 53
+   
+Changing Lookup Solution - Intro to Computer Science
+by Udacity
+0 18
+   
+接下来
+by Udacity
+0 43
+   
+Growth Solution - Intro to Computer Science
+by Udacity
+3 13
+   
+Hash String Solution - Intro to Computer Science
+by Udacity
+3 07
+   
+Is Offered Solution - Intro to Computer Science
+by Udacity
+1 14
+   
+When Offered Solution - Intro to Computer Science
+by Udacity
+0 35
+   
+Involved Solution - Intro to Computer Science
+by Udacity
+1 41
+   
+Refactoring Solution - Intro to Computer Science
+by Udacity
+1 58
+   
+Memoization Solution - Intro to Computer Science
+by Udacity
+1 56
+   
+Hash Tables - Intro to Computer Science
+by Udacity
+3 41
+   
+Rehashing - Intro to Computer Science
+by Udacity
+3 12
+   
+Importing Libraries - Intro to Computer Science
+by Udacity
+1 09
+   
+Programming Literacy - Intro to Computer Science
+by Udacity
+2 53
+   
+Infinite Power - Intro to Computer Science
+by Udacity
+0 49
+   
+Long Words - Intro to Computer Science
+by Udacity
+0 36
+   
+Long Words Solution - Intro to Computer Science
+by Udacity
+1 06
+   
+Counter - Intro to Computer Science
+by Udacity
+3 20
+   
+Counter Quiz - Intro to Computer Science
+by Udacity
+0 25
+   
+Counter Quiz Solution - Intro to Computer Science
+by Udacity
+1 00
+   
+Expanding Our Grammar - Intro to Computer Science
+by Udacity
+0 37
+   
+Expanding Our Grammar Solution - Intro to Computer Science
+by Udacity
+2 28
+   
+Recursive Definitions - Intro to Computer Science
+by Udacity
+1 18
+   
+Ancestors - Intro to Computer Science
+by Udacity
+1 25
+   
+Ancestors Solution - Intro to Computer Science
+by Udacity
+1 15
+   
+Recursive Procedures - Intro to Computer Science
+by Udacity
+2 40
+   
+Recursive Factorial - Intro to Computer Science
+by Udacity
+0 26
+   
+Recursive Factorial Solution - Intro to Computer Science
+by Udacity
+5 12
+   
+Palindromes - Intro to Computer Science
+by Udacity
+3 44
+   
+Palindromes Solution - Intro to Computer Science
+by Udacity
+2 40
+   
+Recursive Vs Iterative - Intro to Computer Science
+by Udacity
+1 47
+   
+Bunnies - Intro to Computer Science
+by Udacity
+5 33
+   
+Bunnies Solution - Intro to Computer Science
+by Udacity
+1 10
+   
+Divide and Be Conquered - Intro to Computer Science
+by Udacity
+3 23
+   
+Counting Calls - Intro to Computer Science
+by Udacity
+0 32
+   
+Counting Calls Solution - Intro to Computer Science
+by Udacity
+3 30
+   
+Faster Fibonacci - Intro to Computer Science
+by Udacity
+1 08
+   
+Faster Fibonacci Solution - Intro to Computer Science
+by Udacity
+7 32
+   
+Ranking Web Pages - Intro to Computer Science
+by Udacity
+2 48
+   
+Popularity - Intro to Computer Science
+by Udacity
+3 12
+   
+Good Definitions - Intro to Computer Science
+by Udacity
+0 17
+   
+Good Definitions Solution - Intro to Computer Science
+by Udacity
+1 56
+   
+Circular Definitions - Intro to Computer Science
+by Udacity
+2 21
+   
+Circular Definitions Solution - Intro to Computer Science
+by Udacity
+2 52
+   
+Relaxation - Intro to Computer Science
+by Udacity
+4 04
+   
+Relaxation Solution - Intro to Computer Science
+by Udacity
+0 43
+   
+Page Rank - Intro to Computer Science
+by Udacity
+5 07
+   
+Altavista - Intro to Computer Science
+by Udacity
+3 56
+   
+Altavista Solution - Intro to Computer Science
+by Udacity
+2 22
+   
+Urank - Intro to Computer Science
+by Udacity
+4 19
+   
+Implementing Urank - Intro to Computer Science
+by Udacity
+2 56
+   
+Implementing Urank Solution - Intro to Computer Science
+by Udacity
+1 43
+   
+Computing Page Rank - Intro to Computer Science
+by Udacity
+2 32
+   
+Formal Calculations - Intro to Computer Science
+by Udacity
+3 28
+   
+Computer Ranks - Intro to Computer Science
+by Udacity
+4 24
+   
+Finishing Urank - Intro to Computer Science
+by Udacity
+0 24
+   
+Finishing Urank Solution - Intro to Computer Science
+by Udacity
+2 58
+   
+Search Engine - Intro to Computer Science
+by Udacity
+2 57
+   
+Recursive Grammars Solution - Intro to Computer Science
+by Udacity
+2 26
+   
+Lesson 1 Outro
+by Udacity
+1 21
+   
+Spreading Udaciousness Solution - Intro to Computer Science
+by Udacity
+1 38
+   
+Deep Count Solution - Intro to Computer Science
+by Udacity
+0 57
+   
+Feeling Lucky Solution - Intro to Computer Science
+by Udacity
+1 10
+   
+Family Trees - Intro to Computer Science
+by Udacity
+0 58
+   
+Khayyam Triangle Solution - Intro to Computer Science
+by Udacity
+2 42
+   
+Only a Little Lucky Solution - Intro to Computer Science
+by Udacity
+4 56
+   
+Pythonic - Intro to Computer Science
+by Udacity
+1 20
+   
+Python Versions - Intro to Computer Science
+by Udacity
+1 47
+   
+Using Recursion - Intro to Computer Science
+by Udacity
+1 16
+   
+Recursion in Other Languages - Intro to Computer Science
+by Udacity
+2 53
+   
+Pagerank - Intro to Computer Science
+by Udacity
+1 51
+   
+Challenges in Search - Intro to Computer Science
+by Udacity
+2 05
+   
+International Characters - Intro to Computer Science
+by Udacity
+2 41
+   
+ Past
+by Udacity
+0 34
+   
+Themes - Intro to Computer Science
+by Udacity
+2 54
+   
+Overview - Intro to Computer Science
+by Udacity
+3 52
+   
+Computer Science - Intro to Computer Science
+by Udacity
+0 18
+   
+Computer Science - Intro to Computer Science
+by Udacity
+6 42
+   
+Past of Computing - Intro to Computer Science
+by Udacity
+0 11
+   
+Computer History Museum - Intro to Computer Science
+by Udacity
+0 30
+   
+Babbage Engine - Intro to Computer Science
+by Udacity
+0 26
+   
+First Hard Drive - Intro to Computer Science
+by Udacity
+0 57
+   
+Search Before Computers - Intro to Computer Science
+by Udacity
+1 03
+   
+Search on the Web - Intro to Computer Science
+by Udacity
+2 15
+   
+Present of Computing - Intro to Computer Science
+by Udacity
+0 23
+   
+Slac and Big Data - Intro to Computer Science
+by Udacity
+5 23
+   
+Mozilla - Intro to Computer Science
+by Udacity
+0 09
+   
+Open Source - Intro to Computer Science
+by Udacity
+2 00
+   
+Getting Involved - Intro to Computer Science
+by Udacity
+7 20
+   
+Having an Impact - Intro to Computer Science
+by Udacity
+0 15
+   
+Benetech - Intro to Computer Science
+by Udacity
+3 07
+   
+Future of Computing - Intro to Computer Science
+by Udacity
+0 13
+   
+Text Analysis - Intro to Computer Science
+by Udacity
+3 07
+   
+Energy Aware Computing - Intro to Computer Science
+by Udacity
+1 15
+   
+Computer Security - Intro to Computer Science
+by Udacity
+2 23
+   
+Theory of Computation - Intro to Computer Science
+by Udacity
+3 08
+   
+Quantum Computing - Intro to Computer Science
+by Udacity
+1 39
+   
+Stay Udacious - Intro to Computer Science
+by Udacity
+0 52
+   
+Continue Learning - Intro to Computer Science
+by Udacity
+0 53
+   
+Pick One - Intro to Computer Science
+by Udacity
+1 07
+   
+Triangular Numbers - Intro to Computer Science
+by Udacity
+1 55
+   
+Linear Time - Intro to Computer Science
+by Udacity
+3 56
+   
+Remove Tags - Intro to Computer Science
+by Udacity
+3 37
+   
+Date Converter - Intro to Computer Science
+by Udacity
+3 22
+   
+Termination - Intro to Computer Science
+by Udacity
+3 37
+   
+Find and Replace - Intro to Computer Science
+by Udacity
+2 59
+   
+Longest Repetition - Intro to Computer Science
+by Udacity
+4 26
+   
+Deep Reverse - Intro to Computer Science
+by Udacity
+3 24
+   
+Stirling and Bell - Intro to Computer Science
+by Udacity
+2 49
+   
+Combating Link Spam - Intro to Computer Science
+by Udacity
+4 47
+   
+Elementary Cellular Automaton - Intro to Computer Science
+by Udacity
+6 52
+   
+Elementary Cellular Automaton - Intro to Computer Science
+by Udacity
+6 45
+   
+Learning New Things - Intro to Computer Science
+by Udacity
+1 36
+   
+First Thing To Do - Intro to Computer Science
+by Udacity
+1 02
+   
+First Thing To Do - Intro to Computer Science
+by Udacity
+0 35
+   
+Set Union - Intro to Computer Science
+by Udacity
+2 53
+   
+Set Union - Intro to Computer Science
+by Udacity
+0 22
+   
+Figuring Out - Intro to Computer Science
+by Udacity
+1 53
+   
+Figuring Out - Intro to Computer Science
+by Udacity
+0 51
+   
+Is Mutable - Intro to Computer Science
+by Udacity
+1 11
+   
+Is Mutable - Intro to Computer Science
+by Udacity
+0 09
+   
+Experimenting With Set - Intro to Computer Science
+by Udacity
+2 06
+   
+Can be set - Intro to Computer Science
+by Udacity
+1 39
+   
+Can be set - Intro to Computer Science
+by Udacity
+1 26
+   
+Hashable - Intro to Computer Science
+by Udacity
+1 46
+   
+More Experiments With Sets - Intro to Computer Science
+by Udacity
+3 34
+   
+Set Methods - Intro to Computer Science
+by Udacity
+2 20
+   
+Mutate Set - Intro to Computer Science
+by Udacity
+1 23
+   
+Mutate Set - Intro to Computer Science
+by Udacity
+0 06
+   
+Set Update - Intro to Computer Science
+by Udacity
+1 37
+   
+Improving Crawler - Intro to Computer Science
+by Udacity
+1 28
+   
+Improving Crawler - Intro to Computer Science
+by Udacity
+1 25
+   
+Conclusion - Intro to Computer Science
+by Udacity
+1 11
+   
+Introduction - Intro to Computer Science
+by Udacity
+0 24
+   
+Techniques to Manage Complexity - Intro to Computer Science
+by Udacity
+0 58
+   
+Modular Design - Intro to Computer Science
+by Udacity
+0 45
+   
+Properties of Modules - Intro to Computer Science
+by Udacity
+0 31
+   
+Properties of Modules - Intro to Computer Science
+by Udacity
+1 37
+   
+Modularizing the Search Engine - Intro to Computer Science
+by Udacity
+1 05
+   
+Modularizing the Search Engine - Intro to Computer Science
+by Udacity
+1 06
+   
+Modules in Python - Intro to Computer Science
+by Udacity
+2 56
+   
+Crawl then Search - Intro to Computer Science
+by Udacity
+1 02
+   
+What Imports do We Need  - Intro to Computer Science
+by Udacity
+0 43
+   
+What Imports do We Need  - Intro to Computer Science
+by Udacity
+0 25
+   
+Importing into Namespace - Intro to Computer Science
+by Udacity
+0 51
+   
+Add Imports - Intro to Computer Science
+by Udacity
+0 11
+   
+Add Imports - Intro to Computer Science
+by Udacity
+0 11
+   
+Beautiful Soup - Intro to Computer Science
+by Udacity
+1 19
+   
+Using Modules - Intro to Computer Science
+by Udacity
+1 41
+   
+Dependencies - Intro to Computer Science
+by Udacity
+0 36
+   
+Dependencies - Intro to Computer Science
+by Udacity
+0 52
+   
+Abstraction - Intro to Computer Science
+by Udacity
+1 36
+   
+Data Types - Intro to Computer Science
+by Udacity
+1 37
+   
+Know Your Types - Intro to Computer Science
+by Udacity
+0 20
+   
+Know Your Types - Intro to Computer Science
+by Udacity
+0 57
+   
+Tricky Type - Intro to Computer Science
+by Udacity
+0 17
+   
+Tricky Type - Intro to Computer Science
+by Udacity
+0 14
+   
+Types and Operations - Intro to Computer Science
+by Udacity
+1 04
+   
+Type of an Error - Intro to Computer Science
+by Udacity
+0 37
+   
+Type of an Error - Intro to Computer Science
+by Udacity
+0 39
+   
+Magic of Plus - Intro to Computer Science
+by Udacity
+0 51
+   
+Static vs Dynamic Types - Intro to Computer Science
+by Udacity
+0 36
+   
+Static vs Dynamic Types - Intro to Computer Science
+by Udacity
+1 10
+   
+Statically Typed Languages - Intro to Computer Science
+by Udacity
+0 58
+   
+Compile Time Errors - Intro to Computer Science
+by Udacity
+1 37
+   
+Difference Between Statical and Dynamic Typing - Intro to Computer Science
+by Udacity
+0 52
+   
+Difference Between Statical and Dynamic Typing - Intro to Computer Science
+by Udacity
+1 51
+   
+Battle of Static vs Dynamic - Intro to Computer Science
+by Udacity
+0 35
+   
+Making Our Own Types - Intro to Computer Science
+by Udacity
+1 26
+   
+Inputs to ordered search - Intro to Computer Science
+by Udacity
+0 29
+   
+Inputs to ordered search - Intro to Computer Science
+by Udacity
+0 20
+   
+Classes - Intro to Computer Science
+by Udacity
+2 16
+   
+Creating an Object - Intro to Computer Science
+by Udacity
+1 22
+   
+Menu Class - Intro to Computer Science
+by Udacity
+0 14
+   
+Menu Class - Intro to Computer Science
+by Udacity
+0 30
+   
+Attributes - Intro to Computer Science
+by Udacity
+2 58
+   
+What Will It Do - Intro to Computer Science
+by Udacity
+0 22
+   
+What Will It Do - Intro to Computer Science
+by Udacity
+0 12
+   
+Methods - Intro to Computer Science
+by Udacity
+3 19
+   
+Self Promotion - Intro to Computer Science
+by Udacity
+0 30
+   
+is yummy Method - Intro to Computer Science
+by Udacity
+0 15
+   
+is yummy Method - Intro to Computer Science
+by Udacity
+0 21
+   
+chez bananas - Intro to Computer Science
+by Udacity
+0 29
+   
+chez bananas - Intro to Computer Science
+by Udacity
+1 10
+   
+Magic Init - Intro to Computer Science
+by Udacity
+2 33
+   
+Modify Init - Intro to Computer Science
+by Udacity
+0 11
+   
+Modify Init - Intro to Computer Science
+by Udacity
+0 55
+   
+Magic str - Intro to Computer Science
+by Udacity
+1 05
+   
+Define a   str   Method - Intro to Computer Science
+by Udacity
+0 09
+   
+Define a   str   Method - Intro to Computer Science
+by Udacity
+0 25
+   
+Classy Conclusion - Intro to Computer Science
+by Udacity
+1 12
+   
+Inheritance and Bears - Intro to Computer Science
+by Udacity
+1 24
+   
+Dishing About Menus - Intro to Computer Science
+by Udacity
+1 25
+   
+Named Arguments - Intro to Computer Science
+by Udacity
+0 32
+   
+Why We Prefer Named Params - Intro to Computer Science
+by Udacity
+0 43
+   
+Why Prefer Named Params - Intro to Computer Science
+by Udacity
+1 17
+   
+Default Parameters - Intro to Computer Science
+by Udacity
+1 56
+   
+Pitfalls of Default Parameters - Intro to Computer Science
+by Udacity
+1 41
+   
+Pitfalls of Default Parameters - Intro to Computer Science
+by Udacity
+0 16
+   
+How This Goes Wrong - Intro to Computer Science
+by Udacity
+1 21
+   
+Side Dishes - Intro to Computer Science
+by Udacity
+0 59
+   
+Finish the Appetizer Class - Intro to Computer Science
+by Udacity
+0 59
+   
+Finish the Appetizer Class - Intro to Computer Science
+by Udacity
+1 12
+   
+Fried Python - Intro to Computer Science
+by Udacity
+0 53
+   
+Inheritance - Intro to Computer Science
+by Udacity
+1 56
+   
+Sub and Superclasses - Intro to Computer Science
+by Udacity
+0 19
+   
+Sub and Superclasses - Intro to Computer Science
+by Udacity
+1 05
+   
+Using Inheritance - Intro to Computer Science
+by Udacity
+2 02
+   
+Adding Attributes - Intro to Computer Science
+by Udacity
+1 01
+   
+Difference Between Black and Grizzly Bear - Intro to Computer Science
+by Udacity
+0 48
+   
+Define Discerning Bear - Intro to Computer Science
+by Udacity
+0 41
+   
+Define Discerning Bear - Intro to Computer Science
+by Udacity
+0 38
+   
+Overriding - Intro to Computer Science
+by Udacity
+0 33
+   
+Getting More Super - Intro to Computer Science
+by Udacity
+1 24
+   
+Single Line of Difference - Intro to Computer Science
+by Udacity
+0 26
+   
+Single Line of Difference - Intro to Computer Science
+by Udacity
+0 41
+   
+Even More Reuse - Intro to Computer Science
+by Udacity
+0 54
+   
+Which of These Are True - Intro to Computer Science
+by Udacity
+0 21
+   
+Which of These Are True - Intro to Computer Science
+by Udacity
+0 34
+   
+isinstance - Intro to Computer Science
+by Udacity
+0 38
+   
+hasattr - Intro to Computer Science
+by Udacity
+0 47
+   
+Which is Better - Intro to Computer Science
+by Udacity
+0 23
+   
+Which is Better - Intro to Computer Science
+by Udacity
+0 43
+   
+Duck Typing - Intro to Computer Science
+by Udacity
+0 33
+   
+Multiple Inheritance - Intro to Computer Science
+by Udacity
+2 02
+   
+Mortimers Name - Intro to Computer Science
+by Udacity
+0 44
+   
+Mortimers Name - Intro to Computer Science
+by Udacity
+1 20
+   
+Mysterious Magic Methods - Intro to Computer Science
+by Udacity
+0 45
+   
+Mysterious Magic Methods - Intro to Computer Science
+by Udacity
+0 48
+   
+Dish It Out - Intro to Computer Science
+by Udacity
+1 41
+   
+Dish It Out - Intro to Computer Science
+by Udacity
+2 14
+   
+Object Oriented Design - Intro to Computer Science
+by Udacity
+1 03
+   
+World Wild Web - Intro to Computer Science
+by Udacity
+0 43
+   
+Setting up a Web Application - Intro to Computer Science
+by Udacity
+3 12
+   
+Try searchwithpeter.info - Intro to Computer Science
+by Udacity
+0 42
+   
+Try searchwithpeter.info - Intro to Computer Science
+by Udacity
+0 29
+   
+Understanding the Web Application - Intro to Computer Science
+by Udacity
+1 49
+   
+Regular Expressions - Intro to Computer Science
+by Udacity
+0 32
+   
+RE Explained - Intro to Computer Science
+by Udacity
+2 42
+   
+Equivalent RE - Intro to Computer Science
+by Udacity
+0 33
+   
+Equivalent RE - Intro to Computer Science
+by Udacity
+1 03
+   
+GETting Requests - Intro to Computer Science
+by Udacity
+1 05
+   
+Adding about page - Intro to Computer Science
+by Udacity
+0 26
+   
+Adding about page - Intro to Computer Science
+by Udacity
+0 50
+   
+In a Pickle - Intro to Computer Science
+by Udacity
+1 21
+   
+Files - Intro to Computer Science
+by Udacity
+0 55
+   
+What Could Go Wrong - Intro to Computer Science
+by Udacity
+1 00
+   
+What Could Go Wrong - Intro to Computer Science
+by Udacity
+0 35
+   
+Dealing With Exceptional Behavior - Intro to Computer Science
+by Udacity
+2 26
+   
+Trying Again - Intro to Computer Science
+by Udacity
+2 37
+   
+What is a ValueError - Intro to Computer Science
+by Udacity
+0 36
+   
+What is a ValueError - Intro to Computer Science
+by Udacity
+1 44
+   
+Exception Hierarchy - Intro to Computer Science
+by Udacity
+0 56
+   
+Exceptional Line of Code - Intro to Computer Science
+by Udacity
+0 17
+   
+Exceptional Line of Code - Intro to Computer Science
+by Udacity
+0 30
+   
+Raising Exceptions - Intro to Computer Science
+by Udacity
+0 24
+   
+Raise a ruckus - Intro to Computer Science
+by Udacity
+0 21
+   
+Raise a ruckus - Intro to Computer Science
+by Udacity
+1 31
+   
+Cleaning Up - Intro to Computer Science
+by Udacity
+0 40
+   
+Cleaning Up - Intro to Computer Science
+by Udacity
+0 56
+   
+Finally finally - Intro to Computer Science
+by Udacity
+2 05
+   
+Fix It - Intro to Computer Science
+by Udacity
+0 24
+   
+Fix It - Intro to Computer Science
+by Udacity
+0 25
+   
+A Better Way - Intro to Computer Science
+by Udacity
+1 19
+   
+Fix It Better - Intro to Computer Science
+by Udacity
+0 14
+   
+Fix It Better - Intro to Computer Science
+by Udacity
+0 20
+   
+Still In a Pickle - Intro to Computer Science
+by Udacity
+2 21
+   
+Pickle the Crawl - Intro to Computer Science
+by Udacity
+0 18
+   
+Pickle the Crawl - Intro to Computer Science
+by Udacity
+0 31
+   
+Inside of a Pickle - Intro to Computer Science
+by Udacity
+0 42
+   
+Use the File - Intro to Computer Science
+by Udacity
+0 27
+   
+Use the File - Intro to Computer Science
+by Udacity
+0 21
+   
+Conclusion - Intro to Computer Science
+by Udacity
+1 35
