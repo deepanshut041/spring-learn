@@ -1,0 +1,447 @@
+subject_code,subject_name
+OE 030,Manufacturing Process
+OE 031,Introduction to soft computing
+OE 032 ,Nano Science
+OE 033,Laser  System and Application
+OE 034,Space Science
+OE 035,Polymer  Science & Technology
+OE 036,Nuclear  Science
+OE 037,Material Science
+OE 038,Discrete Mathematics
+OE 039,Applied Linear  Algebra
+AS 301,Mathematics-III
+VE 301,Universal Human Values & Professional Ethics
+AS 302,Environment & Ecology
+EC 309,Analog & Digital Electronics
+EE 301,Electrical & Electronics Engineering Materials
+EE 302,Electrical Measurements & Instrumentation
+EE 303,Basic Signals & Systems
+EE 351,Electrical Workshop
+ME 101,Elements of Mechanical Engineering
+EC 402,Electromagnetic Field Theo y
+EE 401,Power  Plant Enginee ing
+EE 402,Electrical Machines -I
+EE 405,Network Analysis and Synthesis
+AS 401,Mathematics-III
+ME 201,Elements of Mechanical Engineering
+EE 501,Elements Of Power System
+EE 502,Power Electronics
+EE 503,Control System
+EE 504,Microprocessor & Its Applications
+EC 508,Fundamentals of E.M. Theory
+HU 501,Engineering Economics
+EE 601,Power System Analysis
+EE 602,Switchgear & Protection
+EE 603,Special Electric Machine
+EE 011,Digital Control System
+EE 012,Fundamentals of Digital Signal Processing
+EE 013,Neural Networks and Fuzzy System
+EE 014,Power Theft and Energy Management
+EE 021,High Voltage Engineering
+EE 022,Intelligent Instrumentation
+EE 023,Conventional & CAD of Electrical Machines
+EE 024,Smart Energy Delivery Systems
+HU 601,Industrial Management
+EE 701,ELECTRIC DRIVES
+EE 702,POWER STATION PRACTICE
+EC 702A,ANALOG & DIGITAL COMMUNICATION
+EE 031,POWER SYSTEM OPERATION AND CONTROL
+EE 032,ADVANCED MICROPROCESSORS AND MICROCONTROLLERS
+EE 033,FLEXIBLE AC TRANSMISSION SYSTEMS
+CS 039,OBJECT ORIENTED SYSTEMS AND C++
+OE 071,ENTREPRENEURSHIP DEVELOPMENT
+OE 072,QUALITY MANAGEMENT
+OE 073,OPERATION RESEARCH
+OE 074,INTRODUCTION TO BIO TECHNOLOGY
+EE 801,ELECTRICAL & ELECTRONICS ENGINEERING MATERIALS
+EE 802,UTILIZATION OF ELECTRICAL ENERGY AND TRACTION
+EE 041,EHVAC&DC TRANSMISSION
+EE 042,POWER QUALITY
+EE 043,EMBEDDED SYSTEM
+EE 044,SCADA
+OE 081,NON-CONVENTIONAL ENERGY RESOURCES
+OE 082,NON LINEAR DYNAMIC SYSTEMS
+OE 083,DATA BASE MANAGEMENT SYSTEM AND DATA MINING AND WAREHOUSING
+OE 084,AUTOMATION & ROBOTICS
+AS 103,Engineering Maths-I
+AS 101,Engineering Physicss-I
+EE 101,Basic Electrical Engg
+ME 101,Elements of Mechanical Engg
+AS 104,Professional Communication
+CS 101,Computer System & Programming in C
+EC 101,Basic Electronics
+AS 102,Engineering Chemistry
+AS 203,Engineering Maths-II
+AS 201,Engineering Physics-II
+AS 301,Mathematics-III
+VE 301,Universal Human Value &Professional Ethics
+AS 302,Environmental & Ecology
+EC 301,Digital Logic Design 
+CS 301,Discrete Structures & Theory of  Logic
+CS 302,Computer Organization and  Architecture
+CS 305,Data Structures 
+EC 351,Digital Logic Design Lab
+CS 351,Discrete Structure & Logic Lab
+CS 352,Computer Organization Lab
+CS 355,Data Structures Using C
+CS 501,Design and Analysis of Algorithm 
+CS 502,Database Managment System
+CS 503,Principle of Programming Language
+CS 504,Web Technology
+IT 501,Managment Information System
+HU 501,Engineering Economics
+AS 402,Environmental & Ecology
+VE 401,Human Values & Professional Ethics
+EC 406,Information Theory and Coding
+CS 401,Operating Systems
+CS 402,Software Engineering
+CS 403,Theory of Automata and Formal Languages
+CS 601,Computer Networkks
+CS 602,Software Engineering
+CS 603,Compiler Design
+HU 601,Industrial Management
+IT 701,Cryptography & Network Security
+CS 702,Artificial Intelligence
+IT 801,Mobile Computing
+VE 301,Universal Human Values & Professional Ethics
+VE 302,Environment & Ecology
+CE 303,Fluid Mechanics
+ME 301,Material Science
+ME 302,Thermodynamics
+ME 303,Mechanics of Solids
+AS 402,Environment & Ecolog
+VE 401,Human Values & Professional Ethics
+EE 409,Electrical Machines & Controls
+ME 401,Measurement and Metrology
+ME 402,Manufacturing Science & Technology-I
+ME 403,Applied Thermodynamics
+ME 501,Machine Design-I
+ME 502,Kinematics of Machines
+ME 503,Manufacturing Science& Technology-II
+ME 504,Heat & Mass Transfer
+ME 505,I.C. Engines & Compressors
+HU 501,Engineering Economics
+ME 602,Machine Design-II
+ME 603,Dynamics of Machines
+ME 604,Refrigeration & Air-conditioning
+ME 011,Departmental Elective - I
+ME 021,Departmental Elective - II
+HU 601,Industrial Management
+ME 701,COMPUTER AIDED DESIGN (CAD)
+ME 702,AUTOMOBILE ENGINEERING
+ME 031,COMPUTER AIDED MANUFACTURING
+ME 032,PROJECT MANAGEMENT
+ME 033,ADVANCED FLUID MECHANICS
+ME 801,POWER PLANT ENGINEERING
+PI 801,QUALITY CONTROL
+AS 301,Mathematics 3
+VE 301,Universal human values and professional ethics
+AS 302,Environment and Ecology
+EC 301,Digital Logic Design
+CS 301,Discrete Structure and theory of logic
+CS 302,Computer Organization and Architecture
+CS 305,Data Structures
+AS 401,Mathematics 3
+AS 402,environment and Ecology
+VE 401,Universal human values and professional ethics
+CS 401,operating systems
+CS 402,software engineering
+CS 403,theory of automata and formal languages
+EC 405,Introduction to microprocessor
+CS 501,Design and Analysis of Algorithm
+CS 502,Database Management System
+CS 503,Principle of programming language
+CS 504,web technology
+CS 505,computer architecture
+HU 501,engineering economics
+CS 601,Computer Networks
+CS 602,software engineering
+CS 603,Compiler Design
+HU 601,Industrial Management
+CS 701,Distributed System
+CS 702,Artificial Intelligence
+CS 801,Digital Image Processing
+EC 301,Digital Logic Design
+EC 302,Electronic Devices and Circuits
+EC 303,Signals & Systems
+EC 401,Microprocessors & Microcontrollers
+EC 402,Electromagnetic Field Theory
+EC 403 ,Electronic Measurement & Instrumentation
+EC 501,Integrated Circuits
+EC 502,Principles of Communication
+EC 503,Microprocessors
+IC 501,Control System -I
+EC 504,Antenna and Wave Propagation
+HU 501, Engineering Economics
+EC 601,Microwave Engineering
+EC 602,Digital Communication
+EC 603,Integrated Circuit Technology
+OE 071 ,Entrepreneurship Development
+OE 072 ,Quality Management
+OE-073,Operation Research
+EC 011,Digital Signal Processing
+EC 012,Computer Architecture and Organization
+EC 013,Artificial Neural Network
+EC 014,Advance Semiconductor Devices
+EC 013R,Real Time Systems
+EC 021,Microcontroller for Embedded Systems
+EC 023,Analog Signal Processing
+EC 024R,Advance Digital Design using Verilog
+EC 701 ,Optical Communication 
+EC 702B,Data Communication Networks
+EC 703,VLSI Design 
+EC 801,Wireless & Mobile Communication
+EC 802,Optical Network
+OE 040,Manufacturing Process
+OE 041,Introduction to soft computing
+OE 042 ,Nano Science
+OE 043,Laser  System and Application
+OE 044,Space Science
+OE 045,Polymer  Science & Technology
+OE 046,Nuclear  Science
+OE 047,Material Science
+OE 048,Discrete Mathematics
+OE 049,Applied Linear  Algebra
+ME 034,EXPERIMENTAL STRESS ANALYSIS
+ME 035,ADVANCED DYNAMICS OF MACHINES
+ME 036,MANAGEMENT INFORMATION SYSTEM
+ME 041,TOTAL QUALITY MANAGEMENT
+ME 042,THERMAL TURBO MACHINES
+ME 043,MECHANICAL SYSTEM DESIGN
+ME 044,TRIBOLOGY
+ME 045,INDUSTRIAL ERGONOMICS
+ME 046,CONCURRENT ENGINEERING
+ME 051,Operations Research
+ME 052,Maintenance Engineering & Management
+ME 053,Design of Thermal Systems
+ME 054,Advanced Synthesis of Mechanisms
+ME 055,Six Sigma Methods & Applications
+ME 056,Concepts of Modern Physics
+ME 061,Finite Element Method
+ME 062,Non-Destructive Testing
+ME 063,Advanced Materials Technology
+ME 064,Production & Operations Management
+ME 065,Energy Management
+ME 066,Fundamentals of Bio Medical Engineering
+EC 301,Digital Logic Design
+EC 302,Electronic Devices and Circuits
+EC 303,Signals & Systems
+EC 401,Microprocessors & Microcontrollers
+EC 402,Electromagnetic Field Theory
+EC 403 ,Electronic Measurement & Instrumentation
+EC 501,Integrated Circuits
+EC 502,Principles of Communication
+EC 503,Microprocessors
+IC 501,Control System -I
+EC 504,Antenna and Wave Propagation
+HU 501, Engineering Economics
+EC 601,Microwave Engineering
+EC 602,Digital Communication
+EC 603,Integrated Circuit Technology
+OE 030,Manufacturing Process
+OE 031,Introduction to soft computing
+OE 032,Nano Science
+OE 033,Laser System and Application
+OE 034,Space Science
+OE 035,Polymer Science & Technology
+OE 036,Nuclear Science
+OE 037,Material Science
+OE 038,Discrete Mathematics
+OE 039,Applied Linear Algebra
+OE 040,Manufacturing Process
+OE 041,Introduction to soft computing
+OE 042,Nano Science
+OE 043,Laser System and Application
+OE 044,Space Science
+OE 045,Polymer Science & Technology
+OE 046,Nuclear Science
+OE 047,Material Science
+OE 048,Discrete Mathematics
+OE 039,Applied Linear Algebra
+EC 702B,Data Communication Networks
+EC 703,VLSI Design 
+EC 801,Wireless & Mobile Communication
+EC 802,Optical Network
+OE 071 ,Entrepreneurship Development
+OE 072 ,Quality Management
+OE 073,Operation Research
+OE 074,Introduction to Biotechnology
+OE 075,Micro and smart systems
+OE 081,Non Conventional Energy Resources
+OE 082,Nonlinear Dynamic system
+OE 083 ,Product Development
+OE 084,Automation and Robotics
+EC 031, Information Theory & Coding 
+EC 032,Digital Image Processing 
+EC 033,Voice Over IP
+EC 034,Filter Design
+EC 035,Applied Fuzzy Electronic Systems
+EC 041,Electronic Switching
+EC 042,Digital System Design using VHDL
+EC 043,Speech Processing
+EC 044,Advanced Display Technologies & Systems
+EC 045,Satellite & RADAR systems
+AS 301,Mathematics-III
+VE 301,Universal Human Values & Professional Ethics
+AS 302,Environment & Ecology
+ME 303,Mechanics of Solids
+CE 301,Building Materials & Construction
+CE 302,Surveying
+CE 303,Fluid Mechanics
+AS 401,Mathematics-III
+AS 402,Environment & Ecology
+VE 401,Universal Human Values & Professional Ethics
+CS 405,Data Structures
+CE 401,Hydraulics & Hydraulic Machines
+CE 402,Geoinformatics
+CE 403,Structural Analysis
+CE 452,Geoinformatics Lab
+HU 501,Engineering Economics
+CE 501,Geotechnical Engineering
+CE 502,Transportation Engineering-1
+CE 503,Environmental Engineering-1
+CE 504,Structural Analysis-2
+CE 505,Design of Concrete Structure-1
+HU 601,Industrial Management
+CE 601,Design of Concrete Structure-2
+CE 602,"Environmental Engineering-2"
+CE 603,Construction Technology & Management
+CE 011,Advanced Foundation Design
+CE 012,Matrix Analysis of Structures
+CE 013,Environmental Management for Industries
+CE 014,Principals of Town Planning and Architecture
+CE 021,Advanced Concrete Design
+CE 022,Earth and Earth Retaining Structure
+CE 023,Transportation System and Planning
+CE 024,Rural Water supply and Sanitation
+OE 030,Manufacturing Process
+OE 040,Manufacturing Process
+OE 031,Introduction to soft computing
+OE 041,Introduction to soft computing
+OE 032,Nano Science
+OE 042,Nano Science
+OE 033,Laser System and Application
+OE 043,Laser System and Application
+OE 034,Space Science
+OE 044,Space Science
+OE 035,Polymer Science & Technology
+OE 045,Polymer Science & Technology
+OE 036,Nuclear Science
+OE 046,Nuclear Science
+OE 037,Material Science
+OE 047,Material Science
+OE 038,Discrete Mathematics
+OE 048,Discrete Mathematics
+OE 039,Applied Linear Algebra
+OE 049,Applied Linear Algebra
+CE 701,"Design of Steel Structures"
+CE 702,Water Resources Engg
+CE 031,Bridge Engineering
+CE 032,Finite Element Methods
+CE 033,Environmental Geo-technology
+CE 034,Industrial Pollution Control & Env. Audit
+CE 035,Engineering Hydrology
+CE 041,Precast and Modular Construction Practices
+CE 042,Plastic Analysis of Structures
+CE 043,Open Channel Flow
+CE 044,Tunnel Engineering
+CE 801,Transportation Engineering -II
+CE 051,Computer Aided Design
+CE 052,Analysis and Design of Hydraulic Structures
+CE 053,Water Resources Systems
+CE 054,Machine Foundation Design
+CE 061,Ground Improvement Techniques
+CE 062,River Engineering
+CE 063,Groundwater Management
+CE 064,Earthquake Resistant Design of Structures
+OE 071,Entrepreneurship Development
+OE 072,Quality Management
+OE 073,Operations Research
+OE 074,Introduction to Biotechnology
+OE 081,Non Conventional Energy Resources
+OE 082,Nonlinear Dynamic Systems
+OE 083,Product Development
+OE 084,Automation & Robotics
+AS 301,MathematicsIII
+VE 301,Uiversal Huma Value &Professioal Ethics
+AS 302,Evirometal & Ecology
+EC 301,Digital Logic Desig 
+CS 301,Discrete Structures & Theory of  Logic
+CS 302,Computer Orgaizatio ad  Architecture
+CS 305,Data Structures 
+EC 351,Digital Logic Desig Lab
+CS 351,Discrete Structure & Logic Lab
+CS 352,Computer Orgaizatio Lab
+CS 355,Data Structures Usig C
+CS 501,Desig ad Aalysis of Algorithm 
+CS 502,Database Maagmet System
+CS 503,Priciple of Programmig Laguage
+CS 504,Web Techology
+IT 501,Maagmet Iformatio System
+HU 501,Egieerig Ecoomics
+AS 402,Evirometal & Ecology
+VE 401,Huma Values & Professioal Ethics
+EC 406,Iformatio Theory ad Codig
+CS 401,Operatig Systems
+CS 402,Software Egieerig
+CS 403,Theory of Automata ad Formal Laguages
+CS 601,Computer etworkks
+CS 602,Software Egieerig
+CS 603,Compiler Desig
+HU 601,Idustrial Maagemet
+IT 701,Cryptography & etwork Security
+CS 702,Artificial Itelligece
+IT 801,Mobile Computig
+OE 030,Maufacturig Process
+OE 040,Maufacturig Process
+OE 032,ao Sciece
+OE 042,ao Sciece
+OE 033,Laser System ad Applicatio
+OE 043,Laser System ad Applicatio
+OE 034,Space Sciece
+OE 044,Space Sciece
+OE 036,uclear Sciece
+OE 046,uclear Sciece
+OE 047,Material Sciece
+OE 037,Material Sciece
+OE 039,Applied Liear Algebra
+OE 049,Applied Liear Algebra
+IT 061,Iformatio Retrieval ad Maagemet
+IT 062,Modelig & Simulatio
+IT 063,Bioiformatics
+IT 064,Kowledge bases & decisio support System
+IT 065,Geographic Iformatio System
+CS 066,DAta Warehousig ad Data Miig
+CS 070,Huma Computer Iterface
+IT 066,EBusiess Strategies
+CS 067,Distributed Database
+IT 067,Big Data
+OE 071,Ebterpreeurship Developmet
+OE 072,Quality Maagemet
+OE 073,Opratios Research
+OE 074,Itroductio to Bio Techology
+OE 075,Mobile Applicatio Developmet
+OE 076,Ethical Hackig ad Prevetio
+OE 077,Software Project Maagemet
+OE 082 , o Liear Dyamics Systems 
+ OE 083 , Product Developmet 
+ OE 084, Automatio ad Robotics 
+ OE 081, o Covetioal Eergy Resources 
+CS 071 ,Software Testig ad Audit 
+CS 072, eural etwork 
+IT 071 ,IT i Foresic Sciece
+CS 074 ,High speed etwork
+CS 075,adroid operatig system
+CS 076,Service Orieted Architecture
+CS 071 ,Distributed System
+CS 073,omputer visio
+CS 080 ,Patter Recogitio
+CS 082,Real Time System
+CS 084,Grid Computig
+CS 081,Digital Image Processig
+IT 080 ,atural Laguage Processig
+CS 085,Data Compressio
+CS 087,Embedded System
+CS 088,Sematic:Web ad Web Services
+IT 081 ,Software Quality Egieerig
+IT082,Software Relaibiiity
